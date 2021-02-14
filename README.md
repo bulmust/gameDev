@@ -1,4 +1,13 @@
 # gameDev
+
+## Tutorials
+
+- [ ] [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK)
+  
+- [ ] [C++ , Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
+
+---------------
 Let's learn game development
 
 Some Links:
